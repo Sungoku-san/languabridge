@@ -1,0 +1,21 @@
+{
+  "name": "linguabridge",
+  "version": "1.0.0",
+  "description": "AI-Powered Speech-to-English Voice Translator with Python Backend & Python NLP Engine",
+  "main": "backend/app.py",
+  "scripts": {
+    "start": "python backend/app.py",
+    "dev": "python backend/app.py"
+  },
+  "keywords": [
+    "speech-to-speech",
+    "voice-translator",
+    "python-nlp",
+    "flask",
+    "speech-recognition",
+    "text-to-speech",
+    "linguabridge"
+  ],
+  "author": "LinguaBridge Team",
+  "license": "MIT"
+}
